@@ -1,0 +1,16 @@
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV2
+http://starshare.live:8080/live/0987654321/1234567890/16.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3
+http://mags.vip:2086/live/miriam/miriam123/72596.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV4
+http://mags.vip:2086/live/miriam/miriam123/67004.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV+1
+http://starshare.live:8080/live/0987654321/1234567890/5018.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV2+1
+http://starshare.live:8080/live/0987654321/1234567890/5019.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3+1
+http://starshare.live:8080/live/0987654321/1234567890/5020.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV4+1
+http://starshare.live:8080/live/0987654321/1234567890/5021.ts?checkedby:hlscat.com
